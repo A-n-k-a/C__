@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/anka/Desktop/C++/Address/Address.cpp
+Address.h
+/Users/anka/Desktop/C++/Address/Address.h
+iostream
+-
+
+/Users/anka/Desktop/C++/Address/Address.h
+

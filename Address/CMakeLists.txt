@@ -1,0 +1,2 @@
+set(CMAKE_XCODE_SCHEME_ADDRESS_SANITIZER _STANDARD 14)
+add_executable(A Address.cpp)
